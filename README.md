@@ -3,6 +3,8 @@
 
 At Hack Unicorn Club, we're passionate about mastering the fundamentals of Data Structures and Algorithms. Our DSA team is committed to honing our problem-solving skills, algorithmic thinking, and coding prowess. We're on a quest to tackle complex challenges and become DSA wizards.
 
+<b>Web Development Team Lead : <a href="https://www.linkedin.com/in/abhikmajumdar2806/">Abhik Majumdar</a></b>
+
 📚 In this repository, you'll find:
 
 - A treasure trove of DSA resources
