@@ -1,5 +1,5 @@
 # DSA-Team-Repository
-### Welcome to the Hack Unicorn Club Data Structures and Algorithms (DSA) Team Repository! 🧠🧩
+### Welcome to the Hack Unicorn Club DSA Team Repository! 🧠🧩
 
 At Hack Unicorn Club, we're passionate about mastering the fundamentals of Data Structures and Algorithms. Our DSA team is committed to honing our problem-solving skills, algorithmic thinking, and coding prowess. We're on a quest to tackle complex challenges and become DSA wizards.
 
